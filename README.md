@@ -29,7 +29,7 @@ No special installation is required\! Just save the code as a Python file (e.g.,
 <!-- end list -->
 
 ```bash
-python rps_game.py
+python Rock_Paper_Scissor_Game.py
 ```
 
 ## 🎮 How to Play
